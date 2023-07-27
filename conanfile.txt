@@ -1,0 +1,8 @@
+[requires]
+zeromq/4.3.4 
+protobuf/3.3.0
+cppzmq/4.8.1
+
+
+[generators]
+cmake
